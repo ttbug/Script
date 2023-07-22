@@ -141,7 +141,8 @@ if (typeof $response == "undefined") {
     "Dark%20Noise": { name: "pro", id: "dn_4999_lifetime" },
     VideoToPhoto: { name: "Premium", id: "VideoToPhoto_premium" },
     ChatGPTApp: { name: "Basic", id: "com.palligroup.gpt3.yearly" },
-    Noto: { name: "pro", id: "com.lkzhao.editor.full" }
+    Noto: { name: "pro", id: "com.lkzhao.editor.full" },
+    'PDF%20Viewer':{ name: 'sub.pro', id: 'com.pspdfkit.viewer.sub.pro.yearly'}
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
