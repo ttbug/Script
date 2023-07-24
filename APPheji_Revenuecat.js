@@ -142,7 +142,8 @@ if (typeof $response == "undefined") {
     VideoToPhoto: { name: "Premium", id: "VideoToPhoto_premium" },
     ChatGPTApp: { name: "Basic", id: "com.palligroup.gpt3.yearly" },
     Noto: { name: "pro", id: "com.lkzhao.editor.full" },
-    'PDF%20Viewer':{ name: 'sub.pro', id: 'com.pspdfkit.viewer.sub.pro.yearly'}
+    'PDF%20Viewer':{ name: 'sub.pro', id: 'com.pspdfkit.viewer.sub.pro.yearly'},
+    'Worrydolls':{ name: 'magicmode', id: 'magicmode'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
