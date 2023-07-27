@@ -144,6 +144,7 @@ if (typeof $response == "undefined") {
     Noto: { name: "pro", id: "com.lkzhao.editor.full" },
     'PDF%20Viewer':{ name: 'sub.pro', id: 'com.pspdfkit.viewer.sub.pro.yearly'},
     'Worrydolls':{ name: 'magicmode', id: 'magicmode'},
+    'VSCO':{ name: 'pro', id: 'vscopro_global_5999_annual_AutoFreeTrial'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
