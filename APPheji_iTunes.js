@@ -44,6 +44,7 @@ var uaProductMapping = {
   'ReLens': {product_id: 'com.risingcabbage.pro.camera.yearlysubscription',},
   'Fashion%20Design%20Sketches': {product_id: 'com.pocketartstudio.fashiondesign.twomonths',},
   'StylishText': {product_id: 'com.app.StylishText.sub.monthly',},//试用后生效
+  'IslandWappScreen': {product_id: 'islandweek1342',},
 };
 var guding6 = { 
     "receipt": { 
