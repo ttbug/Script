@@ -147,6 +147,7 @@ if (typeof $response == "undefined") {
     'VSCO':{ name: 'pro', id: 'vscopro_global_5999_annual_AutoFreeTrial'},
     'FTChatAI':{ name: 'pro', id: 'ft_ai_1799_1y'},
     'Anybox':{ name: 'pro', id: 'cc.anybox.Anybox.annual'},
+    'Thiro':{ name: 'pro', id: 'atelerix_pro_lifetime'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
