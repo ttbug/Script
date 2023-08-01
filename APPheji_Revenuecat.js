@@ -148,6 +148,9 @@ if (typeof $response == "undefined") {
     'FTChatAI':{ name: 'pro', id: 'ft_ai_1799_1y'},
     'Anybox':{ name: 'pro', id: 'cc.anybox.Anybox.annual'},
     'Thiro':{ name: 'pro', id: 'atelerix_pro_lifetime'},
+    'Zoomerang':{ name: 'pro', id: 'zoomerang.yearly'},
+    'FastingForWoman':{ name: 'wefast_premium', id: 'wefast.yearlysubscription'},
+    'Cookie':{ name: 'allaccess', id: 'app.ft.Bookkeeping.lifetime'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
