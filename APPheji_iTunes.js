@@ -45,6 +45,7 @@ var uaProductMapping = {
   'Fashion%20Design%20Sketches': {product_id: 'com.pocketartstudio.fashiondesign.twomonths',},
   'StylishText': {product_id: 'com.app.StylishText.sub.monthly',},//试用后生效
   'IslandWappScreen': {product_id: 'islandweek1342',},
+  '%E6%97%A5%E8%AE%B02.0': {product_id: 'com.LuoWei.aDiary.yearly0',bundle_id: 'https://t.me/Guding88'},
 };
 var guding6 = {
   "environment": "Production",
