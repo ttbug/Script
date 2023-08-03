@@ -44,8 +44,18 @@ var uaProductMapping = {
   'ReLens': {product_id: 'com.risingcabbage.pro.camera.yearlysubscription',},
   'Fashion%20Design%20Sketches': {product_id: 'com.pocketartstudio.fashiondesign.twomonths',},
   'StylishText': {product_id: 'com.app.StylishText.sub.monthly',},//试用后生效
+  '%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4%E5%BA%93%E5%85%85%E7%94%B5%E5%8A%A8%E7%94%BB%E5%B0%8F%E7%BB%84%E4%BB%B6': {product_id: 'com.othermaster.yearlyvip',},
   'IslandWappScreen': {product_id: 'islandweek1342',},
+  'VPN': {product_id: 'com.yearMember',},
+  'oldroll': {product_id: 'com.zijayrate.analogcam.vipforever10',},
+  'Subscriptions': {product_id: 'com.touchbits.subscriptions.iap.pro.yearly',},
+  'intolive': {product_id: 'me.imgbase.intolive.proSubYearly',bundle_id: 'https://t.me/Guding88'},
+  'PocketPics': {product_id: 'pocketpics_monthly_withtrial_0901',bundle_id: 'https://t.me/Guding88'},
+  'CardDiary': {product_id: 'FuYuan.inkDiary.YearB.Pro',bundle_id: 'FuYuan.inkDiary'},
+  '%E7%86%8A%E6%8E%8C%E8%AE%B0': {product_id: 'net.shinyfrog.bear_iOS.pro_yearly_subscription_bis',bundle_id: 'https://t.me/Guding88'},
   '%E6%97%A5%E8%AE%B02.0': {product_id: 'com.LuoWei.aDiary.yearly0',bundle_id: 'https://t.me/Guding88'},
+  'LifeTracker': {product_id: 'com.dk.lifetracker.yearplan',bundle_id: 'https://t.me/Guding88'},
+  'newFitnessApp': {product_id: 'newfitnessapp02',bundle_id: 'myndarc.newFitnessApp'},
   'Noted': {product_id: 'com.digitalworkroom.noted.plus.year.specialoffer',bundle_id: 'https://t.me/Guding88'},
 };
 var guding6 = {
