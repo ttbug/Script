@@ -56,7 +56,7 @@ var uaProductMapping = {
   '%E6%97%A5%E8%AE%B02.0': {product_id: 'com.LuoWei.aDiary.yearly0',bundle_id: 'https://t.me/Guding88'},
   'LifeTracker': {product_id: 'com.dk.lifetracker.yearplan',bundle_id: 'https://t.me/Guding88'},
   'newFitnessApp': {product_id: 'newfitnessapp02',bundle_id: 'myndarc.newFitnessApp'},
-  'Noted': {product_id: 'com.digitalworkroom.noted.plus.year.specialoffer',bundle_id: 'https://t.me/Guding88'},
+  'DoMemo': {product_id: 'org.zrey.fastnote.lifetime'},
 };
 var guding6 = {
   "environment": "Production",
