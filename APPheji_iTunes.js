@@ -61,6 +61,7 @@ var uaProductMapping = {
   'iTimely': {product_id: 'org.zrey.iTimely.lifetime'},
   'DoMemo': {product_id: 'org.zrey.fastnote.lifetime'},
   'VDIT': {product_id: 'me.imgbase.videoday.profeaturesYearly'},
+  'Filmroll': {'product_id' : 'Filmroll_Pro_1Year'},
 };
 var receipt = {
   "quantity": "1",
