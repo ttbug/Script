@@ -156,6 +156,7 @@ if (typeof $response == "undefined") {
     'TouchRetouchBasic':{ name: 'premium', id: 'tr5_yearlysubsc_20dlrs_1'},
     'Photomator':{ name: 'pixelmator_photo_pro_access', id: 'pixelmator_photo_lifetime_v1_pro_offer'},
     'Mojo':{ name: 'pro', id: 'video.mojo.pro.yearly'},
+    'Photon':{ name: 'photon.paid', id: 'photon.paid.yearly'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
