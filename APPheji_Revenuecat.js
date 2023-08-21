@@ -157,6 +157,7 @@ if (typeof $response == "undefined") {
     'Photomator':{ name: 'pixelmator_photo_pro_access', id: 'pixelmator_photo_lifetime_v1_pro_offer'},
     'Mojo':{ name: 'pro', id: 'video.mojo.pro.yearly'},
     'Photon':{ name: 'photon.paid', id: 'photon.paid.yearly'},
+    'Drops':{ name: 'premium', id: 'premium_yearly_full_price_tier_c_free_trial_7_int'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
