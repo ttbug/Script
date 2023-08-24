@@ -158,6 +158,7 @@ if (typeof $response == "undefined") {
     'Mojo':{ name: 'pro', id: 'video.mojo.pro.yearly'},
     'Photon':{ name: 'photon.paid', id: 'photon.paid.yearly'},
     'Drops':{ name: 'premium', id: 'premium_yearly_full_price_tier_c_free_trial_7_int'},
+    'loopsie':{ name: 'pro-iOS', id: 'com.gamelounge.loopsie.ios.one_time'}
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
