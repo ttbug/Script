@@ -62,6 +62,7 @@ var uaProductMapping = {
   'DoMemo': {product_id: 'org.zrey.fastnote.lifetime'},
   'VDIT': {product_id: 'me.imgbase.videoday.profeaturesYearly'},
   'Filmroll': {'product_id' : 'Filmroll_Pro_1Year'},
+  'loginput': {product_id: "com.logcg.loginput"},
 };
 var receipt = {
   "quantity": "1",
