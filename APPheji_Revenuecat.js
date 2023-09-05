@@ -159,7 +159,8 @@ if (typeof $response == "undefined") {
     'Photon':{ name: 'photon.paid', id: 'photon.paid.yearly'},
     'Drops':{ name: 'premium', id: 'premium_yearly_full_price_tier_c_free_trial_7_int'},
     'loopsie':{ name: 'pro-iOS', id: 'com.gamelounge.loopsie.ios.one_time'},
-    'TruthOrDare':{name:'premium', id:'truth_or_dare_premium_monthly'}
+    'TruthOrDare':{name:'premium', id:'truth_or_dare_premium_monthly'},
+    'Zettelbox':{name: 'Power Pack', id:'powerpack_yearly_1'}
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
