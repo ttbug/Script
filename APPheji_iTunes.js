@@ -63,6 +63,7 @@ var uaProductMapping = {
   'VDIT': {product_id: 'me.imgbase.videoday.profeaturesYearly'},
   'Filmroll': {'product_id' : 'Filmroll_Pro_1Year'},
   'Sudoku': {product_id: 'com.singingfish.sudokugame.one'},
+  'Metion': {product_id: 'org.zrey.metion.pro'},
 };
 var receipt = {
   "quantity": "1",
