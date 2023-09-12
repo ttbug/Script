@@ -64,6 +64,7 @@ var uaProductMapping = {
   'Filmroll': {'product_id' : 'Filmroll_Pro_1Year'},
   'Sudoku': {product_id: 'com.singingfish.sudokugame.one'},
   'Metion': {product_id: 'org.zrey.metion.pro'},
+  'YSBrowser': {product_id: 'com.ys.pro'},
 };
 var receipt = {
   "quantity": "1",
