@@ -162,6 +162,7 @@ if (typeof $response == "undefined") {
     'TruthOrDare':{name:'premium', id:'truth_or_dare_premium_monthly'},
     'Zettelbox':{name: 'Power Pack', id:'powerpack_yearly_1'},
     'Project%20Delta':{name: 'rc_entitlement_obscura_ultra', id:'com.benricemccarthy.obscura4.obscura_ultra_sub_annual'},
+    'money_manager':{{name:'premium',id:'com.happy.fastdiet.forever'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
