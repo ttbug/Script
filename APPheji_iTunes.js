@@ -65,6 +65,7 @@ var uaProductMapping = {
   'Sudoku': {product_id: 'com.singingfish.sudokugame.one'},
   'Metion': {product_id: 'org.zrey.metion.pro'},
   'YSBrowser': {product_id: 'com.ys.pro'},
+  'wext': {product_id: 'com.lmf.wext.life'},//万源阅读
 };
 var receipt = {
   "quantity": "1",
