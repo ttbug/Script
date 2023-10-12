@@ -66,7 +66,7 @@ var uaProductMapping = {
   'Metion': {product_id: 'org.zrey.metion.pro'},
   'YSBrowser': {product_id: 'com.ys.pro'},
   'lmf': {product_id: 'com.lmf.wext.life'},//万源阅读,
-  'Mindkit': {product_id: 'mindkit_yearly'},
+  'Mindkit': {product_id: 'mindkit_permanently'},
 };
 var receipt = {
   "quantity": "1",
