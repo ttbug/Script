@@ -165,6 +165,7 @@ if (typeof $response == "undefined") {
     'money_manager':{name:'premium',id:'com.happy.fastdiet.forever'},
     'fastdiet':{name:'premium',id:'com.happy.fastdiet.forever'},
     'audiomack':{name:'Premium1',id:'com.premium.yearly'},
+    'tiimo':{name:'full_access',id:'lifetime.iap'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
