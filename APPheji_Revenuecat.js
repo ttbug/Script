@@ -166,6 +166,21 @@ if (typeof $response == "undefined") {
     'fastdiet':{name:'premium',id:'com.happy.fastdiet.forever'},
     'audiomack':{name:'Premium1',id:'com.premium.yearly'},
     'tiimo':{name:'full_access',id:'lifetime.iap'},
+    'card':{ name: 'vip', id: 'card_vip'},
+    'Noverdue':{ name: 'pro', id: 'noverdue.yearly.plan0'},
+    'ImAFish':{ name: 'Pro', id: 'ProOver'},
+    'GradientMusic':{ name: 'Pro', id: 'com.gradient.vision.new.music.one.time.79'},
+    'streaks':{ name: 'patron', id: 'com.andyworks.streaks.yearlyPatron'},
+    'Grow':{ name: 'grow_pro', id: 'grow_lifetime'},//版本号：857848362
+    'Strides':{ name: 'plus', id: 'Annual'},
+    'Summit_iOS':{ name: 'pro', id: 'Summit_Monthly1'},
+    'PomoStiker':{ name: 'lifetimeForever', id: 'com.daya.lifetimeforever'},
+    'Uio':{ name: 'PRO', id: 'com.daya.Uio.quarterly'},
+    'Snipd':{ name: 'premium', id: 'snipd_premium_1y_7199_trial_2w_v2'},
+    //'Cuto':{ name: 'cutopro', id: 'com.potatsolab.cuto.pro'},
+    'CountDuck':{ name: 'premium', id: 'Lifetime'},
+    'tiimo':{ name: 'full_access', id: 'lifetime.iap'},
+    'Subtrack':{ name: 'pro', id: 'com.mohitnandwani.subtrack.subtrackpro.family'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
