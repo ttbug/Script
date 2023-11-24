@@ -67,7 +67,7 @@ var uaProductMapping = {
   'YSBrowser': {product_id: 'com.ys.pro'},
   'lmf': {product_id: 'com.lmf.wext.life'},//万源阅读,
   'Mindkit': {product_id: 'mindkit_permanently'},
-  'ProCamera': {product_id: 'com.cocologics.ProCamera'},
+  'ProCamera': {product_id: 'com.cocologics.ProCamera.Up.Yearly'},
 };
 var receipt = {
   "quantity": "1",
