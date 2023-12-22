@@ -68,6 +68,7 @@ var uaProductMapping = {
   'lmf': {product_id: 'com.lmf.wext.life'},//万源阅读,
   'Mindkit': {product_id: 'mindkit_permanently'},
   'ProCamera': {product_id: 'com.cocologics.ProCamera.Up.Yearly'},
+  'PicsLeap': {product_id: 'com.yumiteam.Kuki.ID.2'},
 };
 var receipt = {
   "quantity": "1",
