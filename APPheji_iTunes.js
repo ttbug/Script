@@ -69,6 +69,7 @@ var uaProductMapping = {
   'Mindkit': {product_id: 'mindkit_permanently'},
   'ProCamera': {product_id: 'com.cocologics.ProCamera.Up.Yearly'},
   'PicsLeap': {product_id: 'com.yumiteam.Kuki.ID.2'},
+  "logcg": {product_id: "com.logcg.loginput"},
 };
 var receipt = {
   "quantity": "1",
