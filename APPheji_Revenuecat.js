@@ -181,6 +181,7 @@ if (typeof $response == "undefined") {
     'CountDuck':{ name: 'premium', id: 'Lifetime'},
     'tiimo':{ name: 'full_access', id: 'lifetime.iap'},
     'Subtrack':{ name: 'pro', id: 'com.mohitnandwani.subtrack.subtrackpro.family'},
+    'reader':{name: 'vip2',id: 'com.valo.reader.vip2.year'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
