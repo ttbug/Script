@@ -182,6 +182,7 @@ if (typeof $response == "undefined") {
     'tiimo':{ name: 'full_access', id: 'lifetime.iap'},
     'Subtrack':{ name: 'pro', id: 'com.mohitnandwani.subtrack.subtrackpro.family'},
     'reader':{name: 'vip2',id: 'com.valo.reader.vip2.year'},
+    'Funexpected%20Math':{ name: 'plus', id: 'Plus6Months14DaysTrial'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
