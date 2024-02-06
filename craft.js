@@ -9,7 +9,7 @@ hostname = api.craft.do
 */
 
 var data = JSON.parse($response.body);
-guding = {
+data = {
     "userId": "39a4448a-2846-cf62-c043-94d068af80f0",
     "profileImgUrl": "https://renderserver.craft.do/api/logo?type=u&colorIdx=5&caption=c",
     "email": "ttbuge@gmail.com",
