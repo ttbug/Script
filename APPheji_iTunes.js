@@ -70,6 +70,7 @@ var uaProductMapping = {
   'ProCamera': {product_id: 'com.cocologics.ProCamera.Up.Yearly'},
   'PicsLeap': {product_id: 'com.yumiteam.Kuki.ID.2'},
   "logcg": {product_id: "com.logcg.loginput"},
+  "mweb": {product_id: "com.coderforart.iOS.MWeb"},
 };
 var receipt = {
   "quantity": "1",
