@@ -71,6 +71,7 @@ var uaProductMapping = {
   'PicsLeap': {product_id: 'com.yumiteam.Kuki.ID.2'},
   "logcg": {product_id: "com.logcg.loginput"},
   "mweb": {product_id: "com.coderforart.iOS.MWeb"},
+  'ShellBean': {product_id: 'com.ningle.shellbean.subscription.year'},
 };
 var receipt = {
   "quantity": "1",
