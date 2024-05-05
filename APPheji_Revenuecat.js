@@ -185,6 +185,7 @@ if (typeof $response == "undefined") {
     'Funexpected%20Math':{ name: 'plus', id: 'Plus6Months14DaysTrial'},
     'Sex%20Actions':{ name: 'Premium Plus', id: 'ru.sexactions.subscriptionPlusWeek1'},
     'Hi%E8%AE%BA%E5%9D%9B/69': { name: 'plus', id: 'plus_yearly'},
+    'No%20Fusion':{ name: 'LivePhoto', id: 'com.grey.livephoto.reference.price'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
