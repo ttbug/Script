@@ -186,6 +186,10 @@ if (typeof $response == "undefined") {
     'Sex%20Actions':{ name: 'Premium Plus', id: 'ru.sexactions.subscriptionPlusWeek1'},
     'Hi%E8%AE%BA%E5%9D%9B/69': { name: 'plus', id: 'plus_yearly'},
     'No%20Fusion':{ name: 'LivePhoto', id: 'com.grey.livephoto.reference.price'},
+    'FoJiCam':{ name: 'ProVersionLifeTime', id: 'com.uzero.cn.fojicam.life1'},
+    //'ShellBoxKit':{ name: 'pro', id: 'ShellBoxKit.Lifetime'},
+    'Ask':{ name: 'Perplexity Pro', id: 'pro_200_yr_1w_new'},
+    'PipDoc':{ name: 'pro', id: 'pipdoc_pro_lifetime'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
