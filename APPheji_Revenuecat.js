@@ -190,6 +190,7 @@ if (typeof $response == "undefined") {
     //'ShellBoxKit':{ name: 'pro', id: 'ShellBoxKit.Lifetime'},
     'Ask':{ name: 'Perplexity Pro', id: 'pro_200_yr_1w_new'},
     'PipDoc':{ name: 'pro', id: 'pipdoc_pro_lifetime'},
+    'YubePip':{ name: 'pro', id: 'yubepip_pro_lifetime'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
