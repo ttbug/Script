@@ -72,6 +72,7 @@ var uaProductMapping = {
   "logcg": {product_id: "com.logcg.loginput"},
   "mweb": {product_id: "com.coderforart.iOS.MWeb"},
   'ShellBean': {product_id: 'com.ningle.shellbean.subscription.year'},
+  'WaterMaskCamera': {product_id: "com.camera.watermark.yearly.3dayfree"},  //徕卡水印相机
 };
 var receipt = {
   "quantity": "1",
