@@ -191,6 +191,7 @@ if (typeof $response == "undefined") {
     'Ask':{ name: 'Perplexity Pro', id: 'pro_200_yr_1w_new'},
     'PipDoc':{ name: 'pro', id: 'pipdoc_pro_lifetime'},
     'YubePip':{ name: 'pro', id: 'yubepip_pro_lifetime'},
+    'HRZN': { name: 'pro', id: 'plus_999_lifetime' },  //HRZN-胶片相机
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
