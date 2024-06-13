@@ -11,6 +11,16 @@ hostname = api.revenuecat.com
 
 */
 const guding = {};
+
+const uac = headers['User-Agent'] || headers['user-agent'];
+//排除已禁止MITM的APP
+const forbiddenApps = ['Fileball', 'APTV'];
+const forbiddenAppFound = forbiddenApps.find(appName => (uac && uac.includes(appName)) || ($request.body && $request.body.includes(appName)));
+if (forbiddenAppFound) {
+  console.log(`发现禁止MITM的APP: ${forbiddenAppFound}，已停止运行脚本`);
+  $done({});
+}
+
 const guding6 = JSON.parse(
   (typeof $response != "undefined" && $response.body) || null
 );
