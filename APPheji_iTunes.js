@@ -72,6 +72,7 @@ var uaProductMapping = {
   "logcg": {product_id: "com.logcg.loginput"},
   "mweb": {product_id: "com.coderforart.iOS.MWeb"},
   'ShellBean': {product_id: 'com.ningle.shellbean.subscription.year'},
+  'intolive': {product_id: 'me.imgbase.intolive.proSubYearly'},
 };
 var receipt = {
   "quantity": "1",
