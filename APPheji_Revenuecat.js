@@ -202,6 +202,7 @@ if (typeof $response == "undefined") {
     'PipDoc':{ name: 'pro', id: 'pipdoc_pro_lifetime'},
     'YubePip':{ name: 'pro', id: 'yubepip_pro_lifetime'},
     'HRZN': { name: 'pro', id: 'plus_999_lifetime' },  //HRZN-胶片相机
+    'iplayTV':{ name: 'com.ll.btplayer.12', id: 'com.ll.btplayer.12'}
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
