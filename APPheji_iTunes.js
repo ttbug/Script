@@ -76,6 +76,7 @@ var uaProductMapping = {
   'PICSPLAY': { product_id: "com.jellybus.PicsPlay2.IAP.PRO5999"},
   'VideoLab': { product_id: "com.jellybus.VideoLab.IAP.PRO7999"},//VideoLab
   'MOLDIV': { product_id: "com.jellybus.Moldiv.IAP.PRO7999" },//MOLDIV
+  'Filterra': { product_id: "com.filterra.wtonetimepurchase" },//Filterra
 };
 var receipt = {
   "quantity": "1",
