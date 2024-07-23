@@ -77,6 +77,7 @@ var uaProductMapping = {
   'VideoLab': { product_id: "com.jellybus.VideoLab.IAP.PRO7999"},//VideoLab
   'MOLDIV': { product_id: "com.jellybus.Moldiv.IAP.PRO7999" },//MOLDIV
   'Filterra': { product_id: "com.filterra.wtonetimepurchase" },//Filterra
+  'Rookie': { product_id: "com.jellybus.Rookie.IAP.PRO5999" },//RKCAM
 };
 var receipt = {
   "quantity": "1",
