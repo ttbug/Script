@@ -201,8 +201,10 @@ if (typeof $response == "undefined") {
     'Ask':{ name: 'Perplexity Pro', id: 'pro_200_yr_1w_new'},
     'PipDoc':{ name: 'pro', id: 'pipdoc_pro_lifetime'},
     'YubePip':{ name: 'pro', id: 'yubepip_pro_lifetime'},
-    'HRZN': { name: 'pro', id: 'plus_999_lifetime' },  //HRZN-胶片相机
-    'iplayTV':{ name: 'com.ll.btplayer.12', id: 'com.ll.btplayer.12'}
+    'iplayTV':{ name: 'com.ll.btplayer.12', id: 'com.ll.btplayer.12'},
+    'BORD': { name: 'pro_membership', id: 'bord_plus_2499_lifetime'},  //BORD-照片拓展方形
+    'FRMD': { name: 'all_access', id: 'frmd_plus_999_lifetime'},  //FRMD相机
+     'HRZN': { name: 'pro', id: 'plus_999_lifetime'},  //HRZN-胶片相机
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
