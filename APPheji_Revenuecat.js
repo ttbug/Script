@@ -205,6 +205,7 @@ if (typeof $response == "undefined") {
     'BORD': { name: 'pro_membership', id: 'bord_plus_2499_lifetime'},  //BORD-照片拓展方形
     'FRMD': { name: 'all_access', id: 'frmd_plus_999_lifetime'},  //FRMD相机
      'HRZN': { name: 'pro', id: 'plus_999_lifetime'},  //HRZN-胶片相机
+    'FujiLifeStyle': { name: 'FUJIStyle Pro(Year)', id: 'FujiStyle2024003' },  //FUJISTYLE-富士康色彩配方
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
