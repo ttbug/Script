@@ -204,8 +204,24 @@ if (typeof $response == "undefined") {
     'iplayTV':{ name: 'com.ll.btplayer.12', id: 'com.ll.btplayer.12'},
     'BORD': { name: 'pro_membership', id: 'bord_plus_2499_lifetime'},  //BORD-照片拓展方形
     'FRMD': { name: 'all_access', id: 'frmd_plus_999_lifetime'},  //FRMD相机
-     'HRZN': { name: 'pro', id: 'plus_999_lifetime'},  //HRZN-胶片相机
+    'HRZN': { name: 'pro', id: 'plus_999_lifetime'},  //HRZN-胶片相机
     'FujiLifeStyle': { name: 'FUJIStyle Pro(Year)', id: 'FujiStyle2024003' },  //FUJISTYLE-富士康色彩配方
+    'FoJiCam':{ name: 'ProVersionLifeTime', id: 'com.uzero.cn.fojicam.life1'},
+    'Tyson':{ name: 'pro', id: 'lux_7999_1y_2w0'},//来自大圣的徕卡
+    'Yosum':{ name: 'Premium', id: 'terrykuo.co.yosum.premiummembership'},
+    'iplayTV':{ name: 'com.ll.btplayer.12', id: 'com.ll.btplayer.12'},
+    'TQBrowser':{ name: 'pro', id: 'com.tk.client.lifetime'},
+    'nasctl':{ name: 'pro', id: 'nasctl_pro'},
+    'Sleepo':{ name: 'pro', id: 'sleepo_premium_lifetime_free'},
+    'Super%20AI%20Chat':{ name: 'premium', id: 'chatbot_v4_1999_1y'},
+    //'PicSeedClient':{ name: 'Pro', id: 'com.picseed.sub.pro.event.annual'},//PicSeed
+    'Free':{ name: 'pro', id: 'appspree_pro_lifetime'},//Appspree
+    'PastePal':{ name: 'pro', id: 'com.onmyway133.PastePal.pro'},//PastePal
+    'XGBA':{ name: 'xGBA.pro', id: 'xGBA.lifetime.20240502'},
+    'memesoundboard':{ name: 'pro', id: 'lifetime_3499'},//Meme Soundboard, Effects: Deez
+    'gloriousYouth':{ name: 'gloriousYouth', id: 'gloriousYouth'},
+    '%E8%B0%9C%E5%BA%95%E6%97%B6%E9%92%9F':{ name: 'Entitlement.Pro', id: 'tech.miidii.MDClock.pro'},
+    'ScreenRecordCase':{ name: 'Premium', id: 'me.fandong.ScreenRecordCase.Ultra'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
