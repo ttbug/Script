@@ -222,6 +222,7 @@ if (typeof $response == "undefined") {
     'gloriousYouth':{ name: 'gloriousYouth', id: 'gloriousYouth'},
     '%E8%B0%9C%E5%BA%95%E6%97%B6%E9%92%9F':{ name: 'Entitlement.Pro', id: 'tech.miidii.MDClock.pro'},
     'ScreenRecordCase':{ name: 'Premium', id: 'me.fandong.ScreenRecordCase.Ultra'},
+    'No%20Fusion': { name: 'LivePhoto', id: 'com.grey.nofusion.livephoto' },  //NoFusion-相机
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
