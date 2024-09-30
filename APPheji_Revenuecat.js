@@ -224,6 +224,8 @@ if (typeof $response == "undefined") {
     'ScreenRecordCase':{ name: 'Premium', id: 'me.fandong.ScreenRecordCase.Ultra'},
     'No%20Fusion': { name: 'LivePhoto', id: 'com.grey.nofusion.livephoto' },  //NoFusion-相机
     'Photoooo': { name: 'lifetime', id: 'canoe_28_rnb_forever' },  //Phorase-专业AI消除助手
+    'dtdVibe':{name:'pro',id:'com.dtd.aroundu.year'},//9.26
+    'DtdVibe':{name:'pro',id:'com.dtd.playlist.premium.subscription.yearr'},//9.26
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
