@@ -227,6 +227,8 @@ if (typeof $response == "undefined") {
     'dtdVibe':{name:'pro',id:'com.dtd.aroundu.year'},//9.26
     'DtdVibe':{name:'pro',id:'com.dtd.playlist.premium.subscription.yearr'},//9.26
     'Binsoo': { name: 'vibe', id: 'annual' },  //Binsoo-照片滤镜/编辑
+    'PicLoom': { id: 'com.efsoft.picloom_nc_lifetime', cm: 'sjc' },  //PicLoom
+    'Video%20Teleprompter': { name: 'videoPremium', id: 'com.joeallenpro.videoteleprompter.upgrade.yearly_a' },  //Video Teleprompter
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
