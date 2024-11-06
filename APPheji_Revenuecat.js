@@ -12,6 +12,7 @@ hostname = api.revenuecat.com
 */
 const guding = {};
 
+const headers = $request.headers;
 const uac = headers['User-Agent'] || headers['user-agent'];
 //排除已禁止MITM的APP
 const forbiddenApps = ['Fileball', 'APTV'];
