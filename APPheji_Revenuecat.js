@@ -44,6 +44,7 @@ if (typeof $response == "undefined") {
   var UA = $request.headers["user-agent"];
   const app = "gd";
   const UAMappings = {
+    Nightcam:{name:'nightcam_pro',id:'com.ahmetserdarkaradeniz.nightcamyearlyalternative'},//11.26
     APTV: { name: "pro", id: "com.kimen.aptvpro.lifetime" },
     "Photo%20Vault": { name: "PRO", id: "2fa_0499_1y" },
     Authenticator: { name: "PRO", id: "2fa_0499_1y" },
