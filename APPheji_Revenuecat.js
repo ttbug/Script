@@ -231,6 +231,7 @@ if (typeof $response == "undefined") {
     'Binsoo': { name: 'vibe', id: 'annual' },  //Binsoo-照片滤镜/编辑
     'PicLoom': { id: 'com.efsoft.picloom_nc_lifetime', cm: 'sjc' },  //PicLoom
     'Video%20Teleprompter': { name: 'videoPremium', id: 'com.joeallenpro.videoteleprompter.upgrade.yearly_a' },  //Video Teleprompter
+    'Morphose': { name: 'ProStandard', id: 'com.pixery.morphose.yearly' },
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
