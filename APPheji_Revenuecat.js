@@ -232,6 +232,7 @@ if (typeof $response == "undefined") {
     'PicLoom': { id: 'com.efsoft.picloom_nc_lifetime', cm: 'sjc' },  //PicLoom
     'Video%20Teleprompter': { name: 'videoPremium', id: 'com.joeallenpro.videoteleprompter.upgrade.yearly_a' },  //Video Teleprompter
     'Morphose': { name: 'ProStandard', id: 'com.pixery.morphose.yearly' },
+    'ProCamera': { name: 'private_lightbox_entitlement&san_fran_entitlement&pro_camera_up_entitlement&procamera_full_entitlement',id:'com.cocologics.ProCamera.Up.Yearly'},
   };
   const data = {
     expires_date: "6666-06-06T06:06:06Z",
