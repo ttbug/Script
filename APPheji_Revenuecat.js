@@ -44,6 +44,7 @@ if (typeof $response == "undefined") {
   var UA = $request.headers["user-agent"];
   const app = "gd";
   const UAMappings = {
+    'Leica%20LUX': { name: 'pro', id: 'lux_7999_1y_2w0' },  //LeicaLUX-相机
     Nightcam:{name:'nightcam_pro',id:'com.ahmetserdarkaradeniz.nightcamyearlyalternative'},//11.26
     APTV: { name: "pro", id: "com.kimen.aptvpro.lifetime" },
     "Photo%20Vault": { name: "PRO", id: "2fa_0499_1y" },
