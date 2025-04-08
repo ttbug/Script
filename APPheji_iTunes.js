@@ -75,7 +75,7 @@ var uaProductMapping = {
   'Carbon%20VPN': {product_id: 'Prog_oneYear_auto'},
   'RealTuner': {product_id: 'com.gismart.tuner.weekly'},
   'ShellBean': {product_id: 'com.ningle.shellbean.subscription.year'},
-  'palmsamwind':{product_id: 'com.highone.palmsamwind.yearly.188'},
+  'ancienthealth':{product_id: 'com.highone.palmsamwind.yearly.188'},
 
 
 
